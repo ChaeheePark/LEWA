@@ -1,11 +1,23 @@
-2020년 1학기 상명대학교 스터디 상생플러스의 개발 프로젝트 repository입니다.   
-Javascript 기반 Web/Mobile application 개발 플랫폼 Meteor를 이용하여 영어기사를 보며 영단어를 학습할 수 있는 웹사이트 개발   
-<br/><br/>
-[Meteor](https://www.meteor.com/)
-<br/>
-html, css, javascript  
-Node.js, npm  
-mongoDB  
+## 영어 단어 학습 사이트 LEWA (Learning English with Article)
+
+[Meteor](https://www.meteor.com/)   
+[Codeasy](https://github.com/codeasy-org/codeasy)
+
+## Contributer
+* [201910787youngseo](https://github.com/201910787youngseo) 
+* [ChaeheePark](https://github.com/ChaeheePark) 
+* [hhz2000](https://github.com/hhz2000) 
+* [limjustin](https://github.com/limjustin) 
+* [polyn00](https://github.com/polyn00) 
+* [yoonho0922](https://github.com/yoonho0922) 
+
+## Application Sample
+<p align="center"><img src="https://github.com/yoonho0922/LEWA/blob/master/public/capture/main_capture.png" width="90%" height="90%"></p>
+<p align="center"><img src="https://github.com/yoonho0922/LEWA/blob/master/public/capture/autoupload_capture.png" width="90%" height="90%"></p>
+<p align="center"><img src="https://github.com/yoonho0922/LEWA/blob/master/public/capture/uploadsuc_capture.png" width="90%" height="90%"></p>
+<p align="center"><img src="https://github.com/yoonho0922/LEWA/blob/master/public/capture/post01_capture.png" width="90%" height="90%"></p>
+<p align="center"><img src="https://github.com/yoonho0922/LEWA/blob/master/public/capture/quiz01_capture.png" width="90%" height="90%"></p>
+<p align="center"><img src="https://github.com/yoonho0922/LEWA/blob/master/public/capture/wordbook_capture.png" width="90%" height="90%"></p>
 
 ## Run Project
 #### install meteor
@@ -27,6 +39,7 @@ meteor
 * [페이지 구성](/docs/client_structure.md)
 * [DB 구조](/docs/DB_collection.md)
 * [추가한 package](/docs/npm_install.md)
+* [참조](/docs/reference.md)
 
 ## Project Structure
 * Client : 화면 구성 모음
