@@ -3,7 +3,7 @@
 [Meteor](https://www.meteor.com/)   
 [Codeasy](https://github.com/codeasy-org/codeasy)
 
-## Contributer
+## Contributor
 * [201910787youngseo](https://github.com/201910787youngseo) 
 * [ChaeheePark](https://github.com/ChaeheePark) 
 * [hhz2000](https://github.com/hhz2000) 
