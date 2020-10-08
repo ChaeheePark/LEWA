@@ -10,25 +10,25 @@
 
 **주제** : 영어 단어 학습 사이트 (Learning English with Article)
 
-**기획 배경** : 영어 기사를 활용하여 사용자 중심적으로 편리하게 영어를 공부
+**기획 배경** : 영어 기사를 활용하여 사용자 중심적으로 편리하게 영어를 공부하기 위해서
 
 **팀원**
 
-|                            이름                             |              역할              |                             책임                             |
-| :---------------------------------------------------------: | :----------------------------: | :----------------------------------------------------------: |
-|     [yoonho0922(안윤호)](https://github.com/yoonho0922)     |       Project Manager 👑        |                           AWS 구현                           |
-|      [limjustin(임재영)](https://github.com/limjustin)      |         Back-end Coder         |                Server Side 기능 구현 및 관리                 |
-|    [ChaeheePark(박채희)](https://github.com/ChaeheePark)    |         Back-end Coder         |                Server Side 기능 구현 및 관리                 |
-| [hyejinHong0602(홍혜진)](https://github.com/hyejinHong0602) | Front-end Coder<br>UI Designer | 웹사이트 UI Design<br>전체적인 Cliend Side 기능 구성 및 구현 |
-|   [youngseo0526(김영서)](https://github.com/youngseo0526)   |        Front-end Coder         |            전체적인 Cliend Side 기능 구성 및 구현            |
-|         [polyn0(양정안)](https://github.com/polyn0)         |        Front-end Coder         |            전체적인 Cliend Side 기능 구성 및 구현            |
+|                            이름                             |              역할              |                           책임                            |
+| :---------------------------------------------------------: | :----------------------------: | :-------------------------------------------------------: |
+|     [yoonho0922(안윤호)](https://github.com/yoonho0922)     |       Project Manager 👑        |                전체적인 프로젝트 관리 담당                |
+|      [limjustin(임재영)](https://github.com/limjustin)      |         Back-end Coder         |               Server Side 기능 구현 및 관리               |
+|    [ChaeheePark(박채희)](https://github.com/ChaeheePark)    |         Back-end Coder         |               Server Side 기능 구현 및 관리               |
+| [hyejinHong0602(홍혜진)](https://github.com/hyejinHong0602) | UI Designer<br>Front-end Coder | 웹 사이트 UI Design 담당<br>Cliend Side 기능 구현 및 관리 |
+|   [youngseo0526(김영서)](https://github.com/youngseo0526)   |        Front-end Coder         |               Cliend Side 기능 구현 및 관리               |
+|         [polyn0(양정안)](https://github.com/polyn0)         |        Front-end Coder         |               Cliend Side 기능 구현 및 관리               |
 
 
 ----------
 
 **1. 프로젝트 목적**
 
-사용자가 영어 기사를 활용하여 자신만의 학습 컨텐츠를 만들어 공부할 수 있는 웹사이트 개발을 목적으로 한다.
+사용자가 영어 기사를 활용하여 자신만의 학습 컨텐츠를 만들어 공부할 수 있는 웹사이트 개발하는 것
 
 ----------
 
@@ -95,7 +95,7 @@
 - 영단어 검색 창에서 검색한 단어의 빈도수를 가지고 My Words 차트를 제작
 
   - 사용자가 검색한 단어의 빈도수가 높은 순으로 정렬
-  
+
 - 기사 목록 화면에서는 날짜를 기준으로 기사 필터링 가능
 
 ![image](https://user-images.githubusercontent.com/55044278/95487849-cd2b9d80-09cf-11eb-81c7-01913f4dae5c.png)
@@ -158,7 +158,7 @@
 - ```이전 문제 / 다음 문제``` 버튼을 통해 문제 이동 가능
 
   - 정답일 경우, "정답입니다!" 라는 팝업을 표시
-  
+
   - 오답일 경우, "틀렸습니다! 답은 OOO입니다!" 라는 팝업을 표시
 
 ![image](https://user-images.githubusercontent.com/55044278/95488409-796d8400-09d0-11eb-88e6-8bc69f192e9b.png)
@@ -168,3 +168,51 @@
 ![image](https://user-images.githubusercontent.com/55044278/95488437-80949200-09d0-11eb-9f40-c5d37ca520fa.png)
 
 ![image](https://user-images.githubusercontent.com/55044278/95488446-84c0af80-09d0-11eb-9d6d-047e7682261c.png)
+
+----------
+
+6. **프로젝트 정보**
+
+#### install meteor
+
+* [미티어 설치](https://www.meteor.com/install)
+
+#### npm install (최초 1회 실행)
+
+```
+meteor npm install
+```
+
+#### run
+
+```
+meteor
+```
+
+* 실행 후 웹브라우저에서 localhost:3000 접속  (```meteor run --port <port number>```로 포트번호 지정 가능)
+* Sign up 또는 Login. admire@gmail.com으로 signup하면 관리자 계정임
+* localhost:3000/postingAuto에서
+  [The Korea Herald](http://www.koreaherald.com/index.php) 기사의 링크를 scraping한 후 upload하여 기사 업로드 가능
+
+----------
+
+7. **관련 문서**
+
+* [페이지 구성](/docs/client_structure.md)
+* [DB 구조](/docs/DB_collection.md)
+* [추가한 package](/docs/npm_install.md)
+* [참조](/docs/reference.md)
+
+----------
+
+8. **프로젝트 구조**
+
+* Client : 화면 구성 모음
+
+* docs : 정리한 문서 모음
+
+* public : 사진 파일 등 모음
+
+* server : 백엔드 관련
+
+* lib : html HEAD, 라이브러리, 함수 등..  
