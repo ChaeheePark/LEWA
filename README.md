@@ -173,7 +173,7 @@
 
 6. **프로젝트 정보**
 
-#### install meteor
+#### Install meteor
 
 * [미티어 설치](https://www.meteor.com/install)
 
@@ -183,7 +183,7 @@
 meteor npm install
 ```
 
-#### run
+#### Run
 
 ```
 meteor
