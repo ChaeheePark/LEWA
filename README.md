@@ -189,12 +189,12 @@ meteor npm install
 meteor
 ```
 
-* 실행 후 웹브라우저에서 localhost:3000 접속  (```meteor run --port <port number>```로 포트번호 지정 가능)
+* 실행 후 웹 브라우저에서 localhost:3000 접속  (```meteor run --port <port number>```로 포트번호 지정 가능)
 
-* Sign up 또는 Login. admire@gmail.com으로 signup하면 관리자 계정임
+* Sign up 또는 Login. admire@gmail.com으로 Sign Up하면 관리자 계정임
 
 * localhost:3000/postingAuto에서
-  [The Korea Herald](http://www.koreaherald.com/index.php) 기사의 링크를 scraping한 후 upload하여 기사 업로드 가능
+  [The Korea Herald](http://www.koreaherald.com/index.php) 기사의 링크를 Scraping한 후 Upload하여 기사 업로드 가능
 
 ----------
 
