@@ -55,7 +55,7 @@
 
 **4. 사용 프로그램**
 
-- **Webstorm** : Javascript 코드 구현
+- **Webstorm** : Meteor 구동 및 Javascript 코드 구현
 
 - **MongoDB** : 기사 내용, 단어장 등 사이트에서 필요로 하는 정보들을 담아두는 곳
 
