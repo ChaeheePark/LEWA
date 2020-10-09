@@ -19,9 +19,9 @@
 |     [yoonho0922(안윤호)](https://github.com/yoonho0922)     |       Project Manager 👑        |                전체적인 프로젝트 관리 담당                |
 |      [limjustin(임재영)](https://github.com/limjustin)      |         Back-end Coder         |               Server Side 기능 구현 및 관리               |
 |    [ChaeheePark(박채희)](https://github.com/ChaeheePark)    |         Back-end Coder         |               Server Side 기능 구현 및 관리               |
-| [hyejinHong0602(홍혜진)](https://github.com/hyejinHong0602) | UI Designer<br>Front-end Coder | 웹 사이트 UI Design 담당<br>Cliend Side 기능 구현 및 관리 |
-|   [youngseo0526(김영서)](https://github.com/youngseo0526)   |        Front-end Coder         |               Cliend Side 기능 구현 및 관리               |
-|         [polyn0(양정안)](https://github.com/polyn0)         |        Front-end Coder         |               Cliend Side 기능 구현 및 관리               |
+| [hyejinHong0602(홍혜진)](https://github.com/hyejinHong0602) | UI Designer<br>Front-end Coder | 웹 사이트 UI Design 담당<br>Client Side 기능 구현 및 관리 |
+|   [youngseo0526(김영서)](https://github.com/youngseo0526)   |        Front-end Coder         |               Client Side 기능 구현 및 관리               |
+|         [polyn0(양정안)](https://github.com/polyn0)         |        Front-end Coder         |               Client Side 기능 구현 및 관리               |
 
 
 ----------
@@ -61,8 +61,6 @@
 
 - **Kakao Oven** : 구체적인 UI 스케치
 
-- AWS : 
-
 
 ----------
 
@@ -76,6 +74,7 @@
 
 ![image](https://user-images.githubusercontent.com/55044278/95487602-80e05d80-09cf-11eb-956f-1bd2f9ffd5ef.png)
 
+<br>
 
 **기사 스크래핑 화면**
 
@@ -87,6 +86,7 @@
 
 ![image](https://user-images.githubusercontent.com/55044278/95487696-9eadc280-09cf-11eb-8dcd-98c13e235aee.png)
 
+<br>
 
 **메인 화면**
 
@@ -102,6 +102,7 @@
 
 ![image](https://user-images.githubusercontent.com/55044278/95490405-26e19700-09d3-11eb-95fb-2d506d97601f.png)
 
+<br>
 
 **기사 본문 화면**
 
@@ -117,6 +118,7 @@
 
 ![image](https://user-images.githubusercontent.com/55044278/95488119-1ed42800-09d0-11eb-9b00-aabd8a0c2599.png)
 
+<br>
 
 **영어 사전 기능**
 
@@ -128,6 +130,7 @@
 
 ![image](https://user-images.githubusercontent.com/55044278/95488158-2a275380-09d0-11eb-9d46-57c1379d2b82.png)
 
+<br>
 
 **기사 스크랩 화면**
 
@@ -135,6 +138,7 @@
 
 ![image](https://user-images.githubusercontent.com/55044278/95488504-97d37f80-09d0-11eb-8c21-4202064ff0bf.png)
 
+<br>
 
 **나만의 단어장 화면**
 
@@ -148,6 +152,7 @@
 
 ![image](https://user-images.githubusercontent.com/55044278/95488337-622e9680-09d0-11eb-98f3-b176a1e79085.png)
 
+<br>
 
 **단어 퀴즈 화면**
 
